@@ -1,124 +1,49 @@
-[01:21:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:21:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:21:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:21:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:21:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:21:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:21:01] [main/INFO]: Reloading ResourceManager: Default
-[01:21:02] [Worker-Main-4/INFO]: Loaded 7 recipes
-[01:21:03] [Worker-Main-4/INFO]: Loaded 927 advancements
-[01:21:05] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[01:21:05] [Server thread/INFO]: Loading properties
-[01:21:05] [Server thread/INFO]: Default game type: SURVIVAL
-[01:21:05] [Server thread/INFO]: Generating keypair
-[01:21:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:21:05] [Server thread/INFO]: Using epoll channel type
-[01:21:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:21:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:21:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:21:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:21:06] [Server thread/INFO]: Preparing level "world"
-[01:21:06] [Server thread/WARN]: Unable to find spawn biome
-[01:21:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:21:11] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[01:21:11] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[01:21:11] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[01:21:12] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[01:21:12] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[01:21:13] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[01:21:13] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[01:21:14] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[01:21:14] [Worker-Main-4/INFO]: Preparing spawn area: 1%
-[01:21:15] [Worker-Main-4/INFO]: Preparing spawn area: 2%
-[01:21:15] [Worker-Main-6/INFO]: Preparing spawn area: 3%
-[01:21:16] [Worker-Main-5/INFO]: Preparing spawn area: 5%
-[01:21:16] [Worker-Main-6/INFO]: Preparing spawn area: 6%
-[01:21:17] [Worker-Main-6/INFO]: Preparing spawn area: 9%
-[01:21:17] [Worker-Main-4/INFO]: Preparing spawn area: 10%
-[01:21:18] [Worker-Main-5/INFO]: Preparing spawn area: 13%
-[01:21:18] [Worker-Main-4/INFO]: Preparing spawn area: 15%
-[01:21:19] [Worker-Main-4/INFO]: Preparing spawn area: 17%
-[01:21:19] [Worker-Main-4/INFO]: Preparing spawn area: 17%
-[01:21:20] [Worker-Main-4/INFO]: Preparing spawn area: 17%
-[01:21:21] [Worker-Main-5/INFO]: Preparing spawn area: 21%
-[01:21:21] [Worker-Main-4/INFO]: Preparing spawn area: 21%
-[01:21:21] [Worker-Main-4/INFO]: Preparing spawn area: 21%
-[01:21:22] [Worker-Main-6/INFO]: Preparing spawn area: 27%
-[01:21:23] [Worker-Main-5/INFO]: Preparing spawn area: 27%
-[01:21:23] [Worker-Main-5/INFO]: Preparing spawn area: 27%
-[01:21:23] [Worker-Main-6/INFO]: Preparing spawn area: 36%
-[01:21:24] [Worker-Main-5/INFO]: Preparing spawn area: 37%
-[01:21:24] [Worker-Main-6/INFO]: Preparing spawn area: 37%
-[01:21:25] [Worker-Main-6/INFO]: Preparing spawn area: 43%
-[01:21:25] [Worker-Main-5/INFO]: Preparing spawn area: 43%
-[01:21:26] [Worker-Main-6/INFO]: Preparing spawn area: 49%
-[01:21:26] [Worker-Main-5/INFO]: Preparing spawn area: 49%
-[01:21:27] [Worker-Main-6/INFO]: Preparing spawn area: 55%
-[01:21:27] [Worker-Main-5/INFO]: Preparing spawn area: 55%
-[01:21:28] [Worker-Main-6/INFO]: Preparing spawn area: 59%
-[01:21:28] [Worker-Main-6/INFO]: Preparing spawn area: 59%
-[01:21:29] [Worker-Main-6/INFO]: Preparing spawn area: 59%
-[01:21:30] [Worker-Main-4/INFO]: Preparing spawn area: 59%
-[01:21:30] [Worker-Main-4/INFO]: Preparing spawn area: 59%
-[01:21:31] [Worker-Main-5/INFO]: Preparing spawn area: 73%
-[01:21:31] [Worker-Main-5/INFO]: Preparing spawn area: 73%
-[01:21:31] [Worker-Main-4/INFO]: Preparing spawn area: 73%
-[01:21:33] [Worker-Main-5/INFO]: Preparing spawn area: 85%
-[01:21:33] [Worker-Main-4/INFO]: Preparing spawn area: 85%
-[01:21:33] [Worker-Main-4/INFO]: Preparing spawn area: 85%
-[01:21:33] [Worker-Main-4/INFO]: Preparing spawn area: 85%
-[01:21:34] [Server thread/INFO]: Time elapsed: 23047 ms
-[01:21:34] [Server thread/INFO]: Done (27.932s)! For help, type "help"
-[01:22:45] [Server thread/INFO]: Robinson123y[/127.125.158.124:37887] logged in with entity id 236 at (7.5, 63.0, 8.5)
-[01:22:45] [Server thread/INFO]: Robinson123y joined the game
-[01:23:33] [Server thread/INFO]: <Robinson123y> st-humidity.gl.joinmc.link
-[01:40:39] [Server thread/INFO]: GATOHACKER12_[/127.45.209.209:50675] logged in with entity id 2334 at (7.5, 63.0, 5.5)
-[01:40:39] [Server thread/INFO]: GATOHACKER12_ joined the game
-[01:40:39] [Server thread/INFO]: GATOHACKER12_ lost connection: Disconnected
-[01:40:39] [Server thread/INFO]: GATOHACKER12_ left the game
-[01:40:43] [Server thread/INFO]: <Robinson123y> gg
-[01:40:56] [Server thread/INFO]: GATOHACKER12_[/127.45.209.209:42029] logged in with entity id 2388 at (7.5, 63.0, 5.5)
-[01:40:56] [Server thread/INFO]: GATOHACKER12_ joined the game
-[01:41:48] [Server thread/INFO]: <Robinson123y> no va tan fluido como antes
-[01:41:52] [Server thread/INFO]: <Robinson123y> pero algo es algo
-[01:41:57] [Server thread/INFO]: <GATOHACKER12_> igual ta vien
-[01:41:59] [Server thread/INFO]: <GATOHACKER12_> vien
-[01:42:03] [Server thread/INFO]: <Robinson123y> bien
-[01:42:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=34, y=64, z=14} fx{x=35, y=62, z=15}
-[01:42:06] [Server thread/INFO]: <GATOHACKER12_> vien
-[01:42:29] [Server thread/INFO]: Robinson123y has made the advancement [Stone Age]
-[01:42:35] [Server thread/INFO]: Robinson123y has made the advancement [Getting an Upgrade]
-[01:42:39] [Server thread/INFO]: <GATOHACKER12_> arita vuelvo
-[01:42:40] [Server thread/INFO]: GATOHACKER12_ lost connection: Disconnected
-[01:42:40] [Server thread/INFO]: GATOHACKER12_ left the game
-[01:44:18] [Server thread/INFO]: Robinson123y has made the advancement [Acquire Hardware]
-[01:46:37] [Server thread/INFO]: Robinson123y has made the advancement [Isn't It Iron Pick]
-[01:59:06] [Server thread/INFO]: GATOHACKER12_[/127.45.209.209:52319] logged in with entity id 4813 at (36.12017353345529, 69.0, 40.72827456015317)
-[01:59:06] [Server thread/INFO]: GATOHACKER12_ joined the game
-[01:59:16] [Server thread/INFO]: <GATOHACKER12_> ya me termine de pajear bro
-[01:59:28] [Server thread/INFO]: <Robinson123y> cochino
-[01:59:35] [Server thread/INFO]: <GATOHACKER12_> tarde no
-[01:59:36] [Server thread/INFO]: <GATOHACKER12_> ?
-[01:59:45] [Server thread/INFO]: <Robinson123y> me quede maso sin hacer nada
-[01:59:49] [Server thread/INFO]: <Robinson123y> pa esperarte
-[02:00:02] [Server thread/INFO]: <GATOHACKER12_> perdon
-[02:00:13] [Server thread/INFO]: <Robinson123y> te perdono
-[02:00:15] [Server thread/INFO]: <GATOHACKER12_> tpeame
-[02:00:19] [Server thread/INFO]: <GATOHACKER12_> UwU
-[02:00:21] [Server thread/INFO]: <Robinson123y> no hay tp vro
-[02:00:29] [Server thread/INFO]: <Robinson123y> call?
-[02:00:32] [Server thread/INFO]: <GATOHACKER12_> YAYA
-[02:01:04] [Server thread/INFO]: <GATOHACKER12_> contesta
-[02:01:11] [Server thread/INFO]: Robinson123y has made the advancement [Monster Hunter]
-[02:02:05] [Server thread/INFO]: GATOHACKER12_ has made the advancement [Stone Age]
-[02:02:22] [Server thread/INFO]: GATOHACKER12_ has made the advancement [Getting an Upgrade]
-[02:05:50] [Server thread/INFO]: Robinson123y has made the advancement [Hot Stuff]
-[02:06:30] [Server thread/INFO]: GATOHACKER12_ has made the advancement [Acquire Hardware]
-[02:07:05] [Server thread/INFO]: GATOHACKER12_ has made the advancement [Isn't It Iron Pick]
-[02:07:36] [Server thread/INFO]: GATOHACKER12_ lost connection: Disconnected
-[02:07:36] [Server thread/INFO]: GATOHACKER12_ left the game
-[02:09:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-340, y=65, z=-298} fx{x=-342, y=64, z=-299}
-[02:09:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-340, y=65, z=-298} fx{x=-342, y=64, z=-299}
-[02:11:35] [Server thread/INFO]: Robinson123y has made the advancement [Sweet Dreams]
-[02:11:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-344, y=66, z=-301} fx{x=-343, y=64, z=-301}
-[02:11:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-344, y=66, z=-301} fx{x=-343, y=64, z=-301}
+[02:29:06] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:29:07] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:29:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:29:07] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:29:07] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:29:07] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:29:07] [main/INFO]: Reloading ResourceManager: Default
+[02:29:09] [Worker-Main-4/INFO]: Loaded 7 recipes
+[02:29:09] [Worker-Main-4/INFO]: Loaded 927 advancements
+[02:29:12] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[02:29:12] [Server thread/INFO]: Loading properties
+[02:29:12] [Server thread/INFO]: Default game type: SURVIVAL
+[02:29:12] [Server thread/INFO]: Generating keypair
+[02:29:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:29:13] [Server thread/INFO]: Using epoll channel type
+[02:29:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:29:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:29:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:29:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:29:13] [Server thread/INFO]: Preparing level "world"
+[02:29:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:29:17] [Server thread/INFO]: Preparing spawn area: 0%
+[02:29:17] [Server thread/INFO]: Preparing spawn area: 0%
+[02:29:17] [Server thread/INFO]: Preparing spawn area: 0%
+[02:29:17] [Server thread/INFO]: Preparing spawn area: 0%
+[02:29:17] [Server thread/INFO]: Preparing spawn area: 0%
+[02:29:17] [Server thread/INFO]: Preparing spawn area: 0%
+[02:29:17] [Server thread/INFO]: Preparing spawn area: 0%
+[02:29:17] [Server thread/INFO]: Preparing spawn area: 0%
+[02:29:17] [Server thread/INFO]: Preparing spawn area: 0%
+[02:29:18] [Server thread/INFO]: Preparing spawn area: 0%
+[02:29:22] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[02:29:22] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[02:29:22] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[02:29:22] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[02:29:22] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[02:29:22] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[02:29:22] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[02:29:22] [Worker-Main-5/INFO]: Preparing spawn area: 83%
+[02:29:22] [Server thread/INFO]: Preparing spawn area: 83%
+[02:29:23] [Server thread/INFO]: Preparing spawn area: 99%
+[02:29:23] [Server thread/INFO]: Preparing spawn area: 99%
+[02:29:23] [Server thread/INFO]: Time elapsed: 10059 ms
+[02:29:23] [Server thread/INFO]: Done (10.246s)! For help, type "help"
+[02:29:36] [Server thread/INFO]: Robinson123y[/127.125.158.124:42467] logged in with entity id 83 at (-376.2746298447553, 66.0, -317.79072552154526)
+[02:29:36] [Server thread/INFO]: Robinson123y joined the game
+[02:29:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3095ms or 61 ticks behind
+[02:35:41] [Server thread/INFO]: IloveYouBitch[/127.198.51.217:52983] logged in with entity id 1671 at (2.5, 63.0, 5.5)
+[02:35:41] [Server thread/INFO]: IloveYouBitch joined the game
