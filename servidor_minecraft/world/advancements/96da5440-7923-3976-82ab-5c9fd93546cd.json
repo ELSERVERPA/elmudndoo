@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-16 01:46:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-16 01:22:51 +0000"
@@ -257,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-16 01:46:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-05-16 01:30:58 +0000"
@@ -308,6 +320,12 @@
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-16 01:22:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-05-16 01:46:37 +0000"
     },
     "done": true
   },
@@ -368,6 +386,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-16 01:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-05-16 01:46:49 +0000"
     },
     "done": true
   },
@@ -527,6 +551,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-05-16 01:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-05-16 01:46:37 +0000"
     },
     "done": true
   },
