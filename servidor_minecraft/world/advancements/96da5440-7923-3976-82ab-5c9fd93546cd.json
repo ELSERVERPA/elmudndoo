@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-05-16 02:40:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-05-16 02:02:14 +0000"
@@ -466,6 +472,18 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-05-16 01:46:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-05-16 02:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-05-16 02:40:32 +0000"
     },
     "done": true
   },
@@ -856,6 +874,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-05-16 02:40:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-16 01:22:51 +0000"
@@ -901,7 +925,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-05-16 02:01:11 +0000",
-      "minecraft:zombie": "2025-05-16 02:24:04 +0000"
+      "minecraft:zombie": "2025-05-16 02:24:04 +0000",
+      "minecraft:drowned": "2025-05-16 02:43:48 +0000"
     },
     "done": false
   },
