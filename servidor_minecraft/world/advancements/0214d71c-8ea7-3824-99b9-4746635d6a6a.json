@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:50:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-05-16 02:40:09 +0000"
@@ -389,6 +395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:50:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-16 02:43:00 +0000"
@@ -458,6 +470,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-16 02:44:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:50:57 +0000"
     },
     "done": true
   },
@@ -551,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:50:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-17 01:32:52 +0000",
@@ -562,6 +586,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-05-16 02:56:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:50:57 +0000"
     },
     "done": true
   },
@@ -895,6 +925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:50:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-05-16 02:40:09 +0000"
@@ -940,6 +976,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-16 02:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:50:57 +0000"
     },
     "done": true
   },
@@ -991,6 +1033,7 @@
       "minecraft:desert_hills": "2025-05-16 02:36:33 +0000",
       "minecraft:desert": "2025-05-16 02:35:41 +0000",
       "minecraft:birch_forest": "2025-05-16 02:53:34 +0000",
+      "minecraft:savanna_plateau": "2025-05-17 03:47:28 +0000",
       "minecraft:dark_forest": "2025-05-16 02:54:16 +0000",
       "minecraft:river": "2025-05-16 02:42:57 +0000",
       "minecraft:birch_forest_hills": "2025-05-16 02:53:47 +0000",
@@ -1104,6 +1147,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-16 02:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-05-17 03:50:57 +0000"
     },
     "done": true
   },
