@@ -1,167 +1,66 @@
-[01:10:52] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:10:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:10:52] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:10:52] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01:10:52] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01:10:52] [main/INFO]: Reloading ResourceManager: Default
-[01:10:54] [Worker-Main-4/INFO]: Loaded 7 recipes
-[01:10:54] [Worker-Main-4/INFO]: Loaded 927 advancements
-[01:10:57] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[01:10:57] [Server thread/INFO]: Loading properties
-[01:10:57] [Server thread/INFO]: Default game type: SURVIVAL
-[01:10:57] [Server thread/INFO]: Generating keypair
-[01:10:57] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:10:58] [Server thread/INFO]: Using epoll channel type
-[01:10:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:10:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:10:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:10:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:10:58] [Server thread/INFO]: Preparing level "world"
-[01:10:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:11:00] [Server thread/INFO]: Preparing spawn area: 0%
-[01:11:00] [Server thread/INFO]: Preparing spawn area: 0%
-[01:11:00] [Server thread/INFO]: Preparing spawn area: 0%
-[01:11:00] [Server thread/INFO]: Preparing spawn area: 0%
-[01:11:00] [Server thread/INFO]: Preparing spawn area: 0%
-[01:11:00] [Server thread/INFO]: Preparing spawn area: 0%
-[01:11:01] [Server thread/INFO]: Preparing spawn area: 38%
-[01:11:01] [Server thread/INFO]: Time elapsed: 3537 ms
-[01:11:01] [Server thread/INFO]: Done (3.627s)! For help, type "help"
-[01:11:04] [Server thread/INFO]: IloveYouBitch[/127.198.51.217:35057] logged in with entity id 86 at (862.8798872756786, 22.0, -734.5119990624648)
-[01:11:04] [Server thread/INFO]: IloveYouBitch joined the game
-[01:12:52] [Server thread/INFO]: GATOHACKER12_[/127.45.209.209:54151] logged in with entity id 496 at (-79.71829591270193, 70.0, -151.5667468744228)
-[01:12:52] [Server thread/INFO]: GATOHACKER12_ joined the game
-[01:13:17] [Server thread/INFO]: Robinson123y[/127.125.158.124:46021] logged in with entity id 690 at (861.5392362609132, 22.0, -735.0828230771111)
-[01:13:17] [Server thread/INFO]: Robinson123y joined the game
-[01:13:30] [Server thread/INFO]: <GATOHACKER12_> oe lacrita tp
-[01:13:33] [Server thread/INFO]: <Robinson123y> gatoidiota12
-[01:13:39] [Server thread/INFO]: <IloveYouBitch> robin
-[01:13:48] [Server thread/INFO]: <Robinson123y> tp? chupenla y caminen
-[01:13:51] [Server thread/INFO]: <IloveYouBitch> donde estas
-[01:13:56] [Server thread/INFO]: <Robinson123y> en una cueva
-[01:14:08] [Server thread/INFO]: <Robinson123y> 845 25 -731
-[01:14:13] [Server thread/INFO]: <IloveYouBitch> xd
-[01:14:19] [Server thread/INFO]: <IloveYouBitch> entra call p
-[01:14:22] [Server thread/INFO]: <GATOHACKER12_> 10000 -56 -444444
-[01:14:26] [Server thread/INFO]: <Robinson123y> aun no me he bañado
-[01:14:33] [Server thread/INFO]: <IloveYouBitch> bañate mrd entra clall
-[01:14:40] [Server thread/INFO]: <Robinson123y> aun no me he cambiado
-[01:14:46] [Server thread/INFO]: <IloveYouBitch> pero entra
-[01:14:52] [Server thread/INFO]: <Robinson123y> cuando me bañe
-[01:14:55] [Server thread/INFO]: <IloveYouBitch> pero entra
-[01:15:04] [Server thread/INFO]: <Robinson123y> ya me baño ahorita mismo
-[01:15:07] [Server thread/INFO]: <Robinson123y> y luego call
-[01:15:13] [Server thread/INFO]: <IloveYouBitch> va coorea ahora te cubro
-[01:15:31] [Server thread/INFO]: <IloveYouBitch> oe
-[01:15:57] [Server thread/INFO]: <IloveYouBitch> robinson
-[01:16:40] [Server thread/INFO]: <IloveYouBitch> oe
-[01:16:42] [Server thread/INFO]: <Robinson123y> XD
-[01:16:45] [Server thread/INFO]: <IloveYouBitch> oe
-[01:16:46] [Server thread/INFO]: <Robinson123y> dime
-[01:16:56] [Server thread/INFO]: <IloveYouBitch> dice inga no va a venir encontro una aldea
-[01:17:01] [Server thread/INFO]: <Robinson123y> ya
-[01:17:04] [Server thread/INFO]: <Robinson123y> me desconectar
-[01:17:09] [Server thread/INFO]: <IloveYouBitch> xd
-[01:17:12] [Server thread/INFO]: <Robinson123y> ire a bañarme
-[01:17:16] [Server thread/INFO]: <Robinson123y> vuelvo en 20
-[01:17:18] [Server thread/INFO]: <IloveYouBitch> v
-[01:17:19] [Server thread/INFO]: <IloveYouBitch> va
-[01:17:24] [Server thread/INFO]: Robinson123y lost connection: Disconnected
-[01:17:24] [Server thread/INFO]: Robinson123y left the game
-[01:20:26] [Server thread/INFO]: GATOHACKER12_ lost connection: Disconnected
-[01:20:26] [Server thread/INFO]: GATOHACKER12_ left the game
-[01:20:29] [Server thread/INFO]: IloveYouBitch lost connection: Disconnected
-[01:20:29] [Server thread/INFO]: IloveYouBitch left the game
-[01:20:33] [Server thread/INFO]: IloveYouBitch[/127.198.51.217:42627] logged in with entity id 2433 at (848.9804405243642, 26.0, -732.8433897305285)
-[01:20:33] [Server thread/INFO]: IloveYouBitch joined the game
-[01:20:36] [Server thread/INFO]: IloveYouBitch lost connection: Disconnected
-[01:20:36] [Server thread/INFO]: IloveYouBitch left the game
-[01:20:45] [Server thread/INFO]: GATOHACKER12_[/127.45.209.209:40171] logged in with entity id 2759 at (-34.30000001192093, 65.0, -386.30000001192093)
-[01:20:45] [Server thread/INFO]: GATOHACKER12_ joined the game
-[01:21:15] [Server thread/INFO]: GATOHACKER12_ lost connection: Disconnected
-[01:21:15] [Server thread/INFO]: GATOHACKER12_ left the game
-[01:21:42] [Server thread/INFO]: GATOHACKER12_[/127.45.209.209:41007] logged in with entity id 3052 at (-9.231386577518768, 69.0, -410.3917831778324)
-[01:21:42] [Server thread/INFO]: GATOHACKER12_ joined the game
-[01:22:19] [Server thread/INFO]: IloveYouBitch[/127.198.51.217:50497] logged in with entity id 3315 at (849.7490185797261, 26.0, -732.4661873645317)
-[01:22:19] [Server thread/INFO]: IloveYouBitch joined the game
-[01:23:06] [Server thread/INFO]: yibayan6785[/127.151.134.197:37809] logged in with entity id 3754 at (17.5, 63.0, 12.5)
-[01:23:06] [Server thread/INFO]: yibayan6785 joined the game
-[01:26:02] [Server thread/INFO]: <GATOHACKER12_> -68 100 -221
-[01:26:04] [Server thread/INFO]: GATOHACKER12_ fell from a high place
-[01:28:39] [Server thread/INFO]: GATOHACKER12_ has made the advancement [Monster Hunter]
-[01:28:51] [Server thread/INFO]: yibayan6785 has made the advancement [Getting an Upgrade]
-[01:29:07] [Server thread/INFO]: yibayan6785 has made the advancement [Stone Age]
-[01:31:43] [Server thread/INFO]: <GATOHACKER12_> IloveYouBitch entra call
-[01:32:48] [Server thread/INFO]: IloveYouBitch has made the advancement [Not Today, Thank You]
-[01:34:11] [Server thread/INFO]: Robinson123y[/127.125.158.124:46747] logged in with entity id 6842 at (820.5285410314727, 31.0, -715.2402828894021)
-[01:34:11] [Server thread/INFO]: Robinson123y joined the game
-[01:34:13] [Server thread/INFO]: GATOHACKER12_ has made the advancement [Suit Up]
-[01:34:15] [Server thread/INFO]: <IloveYouBitch> calll
-[01:34:17] [Server thread/INFO]: <IloveYouBitch> calll
-[01:34:18] [Server thread/INFO]: <IloveYouBitch> call
-[01:34:19] [Server thread/INFO]: <Robinson123y> tmr
-[01:34:22] [Server thread/INFO]: Robinson123y lost connection: Disconnected
-[01:34:22] [Server thread/INFO]: Robinson123y left the game
-[01:34:23] [Server thread/INFO]: <IloveYouBitch> entra perra
-[01:35:10] [Server thread/INFO]: yibayan6785 has made the advancement [Monster Hunter]
-[01:36:19] [Server thread/INFO]: Robinson123y[/127.125.158.124:59881] logged in with entity id 7395 at (820.5285410314727, 31.0, -715.2402828894021)
-[01:36:19] [Server thread/INFO]: Robinson123y joined the game
-[01:36:22] [Server thread/INFO]: <IloveYouBitch> call
-[01:36:23] [Server thread/INFO]: <IloveYouBitch> call
-[01:36:24] [Server thread/INFO]: <IloveYouBitch> call
-[01:36:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-194, y=88, z=-74} fx{x=-194, y=87, z=-73}
-[01:37:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-266, y=69, z=-82} fx{x=-267, y=67, z=-82}
-[01:37:48] [Server thread/INFO]: <GATOHACKER12_> -243
-[01:37:50] [Server thread/INFO]: <GATOHACKER12_> 80
-[01:37:53] [Server thread/INFO]: <GATOHACKER12_> -69
-[01:39:19] [Server thread/INFO]: <GATOHACKER12_> -357
-[01:39:22] [Server thread/INFO]: <GATOHACKER12_> 64
-[01:39:24] [Server thread/INFO]: <GATOHACKER12_> -241
-[01:39:52] [Server thread/INFO]: GATOHACKER12_ has made the advancement [What a Deal!]
-[01:39:57] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=524, y=70, z=-597} fx{x=525, y=68, z=-598}
-[01:39:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=519, y=71, z=-594} fx{x=519, y=69, z=-594}
-[01:44:22] [Server thread/INFO]: yibayan6785 has made the advancement [Suit Up]
-[01:46:07] [Server thread/INFO]: yibayan6785 has made the advancement [Sweet Dreams]
-[01:46:11] [Server thread/INFO]: GATOHACKER12_ has made the advancement [Sweet Dreams]
-[01:47:25] [Server thread/INFO]: IloveYouBitch lost connection: Disconnected
-[01:47:25] [Server thread/INFO]: IloveYouBitch left the game
-[01:48:22] [Server thread/INFO]: Villager bfj['Farmer'/1417, l='ServerLevel[world]', x=-358.63, y=65.00, z=-266.34] died, message: 'Farmer was slain by yibayan6785'
-[01:49:10] [Server thread/INFO]: Villager bfj['Mason'/8015, l='ServerLevel[world]', x=-377.67, y=66.25, z=-274.76] died, message: 'Mason was slain by Robinson123y'
-[01:52:29] [Server thread/INFO]: yibayan6785 has made the advancement [Acquire Hardware]
-[01:57:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-333, y=70, z=-235} fx{x=-333, y=68, z=-235}
-[02:02:55] [Server thread/INFO]: yibayan6785 lost connection: Disconnected
-[02:02:55] [Server thread/INFO]: yibayan6785 left the game
-[02:07:29] [Server thread/WARN]: GATOHACKER12_ moved too quickly! -0.8338067662930939,-11.314588199625597,-0.2397841315662106
-[02:08:13] [Server thread/INFO]: Villager bfj['Toolsmith'/7840, l='ServerLevel[world]', x=-393.82, y=69.00, z=-355.70] died, message: 'Toolsmith was slain by Zombie'
-[02:08:59] [Server thread/INFO]: Robinson123y lost connection: Disconnected
-[02:08:59] [Server thread/INFO]: Robinson123y left the game
-[02:11:15] [Server thread/INFO]: GATOHACKER12_ has made the advancement [Diamonds!]
-[02:13:17] [Server thread/INFO]: IloveYouBitch[/127.198.51.217:54331] logged in with entity id 15619 at (-347.30000001192093, 64.0, -248.300000011921)
-[02:13:17] [Server thread/INFO]: IloveYouBitch joined the game
-[02:13:25] [Server thread/INFO]: <IloveYouBitch> oee
-[02:13:40] [Server thread/INFO]: <GATOHACKER12_> dime vv
-[02:13:46] [Server thread/INFO]: <IloveYouBitch> puedes call?
-[02:13:48] [Server thread/INFO]: <GATOHACKER12_> si
-[02:13:53] [Server thread/INFO]: <IloveYouBitch> llama
-[02:13:56] [Server thread/INFO]: <GATOHACKER12_> ok
-[02:14:43] [Server thread/WARN]: Fetching packet for removed entity bcv['Cobblestone'/15860, l='ServerLevel[world]', x=-347.13, y=17.89, z=-251.25]
-[02:16:15] [Server thread/INFO]: IloveYouBitch lost connection: Disconnected
-[02:16:15] [Server thread/INFO]: IloveYouBitch left the game
-[02:16:18] [Server thread/INFO]: IloveYouBitch[/127.198.51.217:41929] logged in with entity id 16068 at (-347.2093512460424, 64.0, -253.74244792772757)
-[02:16:18] [Server thread/INFO]: IloveYouBitch joined the game
-[02:20:15] [Server thread/INFO]: IloveYouBitch lost connection: Disconnected
-[02:20:15] [Server thread/INFO]: IloveYouBitch left the game
-[02:20:45] [Server thread/INFO]: GATOHACKER12_ lost connection: Disconnected
-[02:20:45] [Server thread/INFO]: GATOHACKER12_ left the game
-[02:21:28] [Server thread/INFO]: GATOHACKER12_[/127.45.209.209:48073] logged in with entity id 16660 at (-367.1858589625687, 66.0, -277.69999998807907)
-[02:21:28] [Server thread/INFO]: GATOHACKER12_ joined the game
-[02:21:40] [Server thread/INFO]: GATOHACKER12_ lost connection: Disconnected
-[02:21:40] [Server thread/INFO]: GATOHACKER12_ left the game
-[02:30:05] [Server thread/INFO]: Robinson123y[/127.125.158.124:50721] logged in with entity id 16868 at (-345.3404913727594, 64.0, -269.4862401308992)
-[02:30:05] [Server thread/INFO]: Robinson123y joined the game
-[02:30:37] [Server thread/INFO]: Robinson123y lost connection: Disconnected
-[02:30:37] [Server thread/INFO]: Robinson123y left the game
-[02:50:06] [Server thread/INFO]: GATOHACKER12_[/127.45.209.209:39971] logged in with entity id 17079 at (-382.6423006525696, 68.0, -300.30000001192093)
-[02:50:06] [Server thread/INFO]: GATOHACKER12_ joined the game
-[02:50:08] [Server thread/INFO]: GATOHACKER12_ lost connection: Disconnected
-[02:50:08] [Server thread/INFO]: GATOHACKER12_ left the game
+[03:36:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:36:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:36:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:36:50] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:36:50] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[03:36:50] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[03:36:50] [main/INFO]: Reloading ResourceManager: Default
+[03:36:51] [Worker-Main-4/INFO]: Loaded 7 recipes
+[03:36:51] [Worker-Main-4/INFO]: Loaded 927 advancements
+[03:36:54] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[03:36:54] [Server thread/INFO]: Loading properties
+[03:36:54] [Server thread/INFO]: Default game type: SURVIVAL
+[03:36:54] [Server thread/INFO]: Generating keypair
+[03:36:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:36:55] [Server thread/INFO]: Using epoll channel type
+[03:36:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:36:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:36:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:36:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:36:55] [Server thread/INFO]: Preparing level "world"
+[03:36:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:36:58] [Server thread/INFO]: Preparing spawn area: 0%
+[03:36:58] [Server thread/INFO]: Preparing spawn area: 0%
+[03:36:58] [Server thread/INFO]: Preparing spawn area: 0%
+[03:36:58] [Server thread/INFO]: Preparing spawn area: 0%
+[03:36:58] [Server thread/INFO]: Preparing spawn area: 0%
+[03:36:58] [Server thread/INFO]: Preparing spawn area: 0%
+[03:36:58] [Server thread/INFO]: Preparing spawn area: 0%
+[03:36:58] [Server thread/INFO]: Preparing spawn area: 0%
+[03:36:59] [Server thread/INFO]: Preparing spawn area: 0%
+[03:37:00] [Server thread/INFO]: Time elapsed: 4691 ms
+[03:37:00] [Server thread/INFO]: Done (4.844s)! For help, type "help"
+[03:37:00] [Server thread/INFO]: IloveYouBitch[/127.198.51.217:36805] logged in with entity id 85 at (-391.0905443593758, 68.0, -301.3775723693931)
+[03:37:00] [Server thread/INFO]: IloveYouBitch joined the game
+[03:37:04] [Server thread/INFO]: yibayan6785[/127.151.134.197:51131] logged in with entity id 188 at (-348.2214050620378, 5.0, -249.91583397973264)
+[03:37:04] [Server thread/INFO]: yibayan6785 joined the game
+[03:37:43] [Server thread/INFO]: Robinson123y[/127.125.158.124:49673] logged in with entity id 411 at (-352.5227342512295, 65.0, -255.0483138604315)
+[03:37:43] [Server thread/INFO]: Robinson123y joined the game
+[03:39:35] [Server thread/INFO]: yibayan6785 was slain by Iron Golem
+[03:39:46] [Server thread/INFO]: IloveYouBitch has made the advancement [Getting an Upgrade]
+[03:40:00] [Server thread/INFO]: IloveYouBitch was slain by Robinson123y
+[03:40:05] [Server thread/INFO]: IloveYouBitch lost connection: Disconnected
+[03:40:05] [Server thread/INFO]: IloveYouBitch left the game
+[03:40:08] [Server thread/INFO]: <Robinson123y> XD
+[03:40:36] [Server thread/INFO]: IloveYouBitch[/127.198.51.217:43103] logged in with entity id 1220 at (25.406251305997614, 64.0, 1.1623728925177232)
+[03:40:36] [Server thread/INFO]: IloveYouBitch joined the game
+[03:40:51] [Server thread/INFO]: <Robinson123y> -405 68 -265
+[03:41:13] [Server thread/INFO]: <Robinson123y> -405 68 -265
+[03:41:14] [Server thread/INFO]: <Robinson123y> -405 68 -265
+[03:41:14] [Server thread/INFO]: <Robinson123y> -405 68 -265
+[03:41:15] [Server thread/INFO]: <Robinson123y> -405 68 -265
+[03:41:15] [Server thread/INFO]: <Robinson123y> -405 68 -265
+[03:41:16] [Server thread/INFO]: <Robinson123y> -405 68 -265
+[03:41:44] [Server thread/INFO]: IloveYouBitch was slain by Zombie
+[03:42:49] [Server thread/INFO]: yibayan6785 hit the ground too hard whilst trying to escape Spider
+[03:43:38] [Server thread/INFO]: yibayan6785 was slain by IloveYouBitch
+[03:43:42] [Server thread/INFO]: <IloveYouBitch> ezz
+[03:43:45] [Server thread/INFO]: IloveYouBitch lost connection: Disconnected
+[03:43:45] [Server thread/INFO]: IloveYouBitch left the game
+[03:43:59] [Server thread/INFO]: yibayan6785 lost connection: Disconnected
+[03:43:59] [Server thread/INFO]: yibayan6785 left the game
+[03:44:13] [Server thread/INFO]: IloveYouBitch[/127.198.51.217:53301] logged in with entity id 2797 at (-12.916331680032291, 63.0, -1.1692792955812377)
+[03:44:13] [Server thread/INFO]: IloveYouBitch joined the game
+[03:44:20] [Server thread/INFO]: yibayan6785[/127.151.134.197:44157] logged in with entity id 2959 at (-20.720124009011727, 63.0, -2.9442906466964693)
+[03:44:20] [Server thread/INFO]: yibayan6785 joined the game
+[03:44:30] [Server thread/INFO]: IloveYouBitch was slain by Enderman
